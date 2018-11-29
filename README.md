@@ -1,4 +1,4 @@
-# serverless-p2p-hosting
+# Test serverless-p2p-hosting
 
 A minimalist serverless P2P web hosting.
 
